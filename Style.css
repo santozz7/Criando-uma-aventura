@@ -1,4 +1,7 @@
 body {
     background-color: rgb(221, 188, 157);
     color:white ;
+    font-family:font-family: "Story Script", sans-serif;
+    display: flex;
+    
 }
